@@ -1,18 +1,91 @@
-# 💫 About Me:
-🎓 Final-year Computer Science Engineering student at TBIT(Makaut university) <br>💻 Full Stack Developer with experience in React, Node.js, JavaScript, HTML, and CSS<br>🧠 Exploring Artificial Intelligence & Machine Learning using Python<br>🔭 Currently building personal projects that merge web dev & intelligent systems<br>🌱 Learning every day, curious about everything tech<br>🤝 Open to collaboration, internships, and innovative ideas<br><br>
+<!-- 🔥 ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=Samadrito%20Khamaru&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samadritokhamaru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Samadritoo) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samadrito10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samadrito10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samadrito10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- 🔥 TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samadrito10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
+
+🎓 Final-year Computer Science Engineering student  
+💻 Full Stack Developer (React, Node.js, JavaScript, HTML, CSS)  
+🤖 Exploring Artificial Intelligence & Machine Learning  
+🧠 Love solving problems and building real-world projects  
+🌱 Learning every single day  
+🤝 Open to internships & collaborations  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🧑‍💻 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+### 🧑‍💻 Backend  
+<p>
+  <img src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+</p>
+
+### 🧑‍💻 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python" />
+</p>
+
+### 🤖 AI & Machine Learning  
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge&logo=scikitlearn" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+
+## 📬 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samadrito-khamaru-67b190282?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+🔥 <b>Let’s build something amazing together!</b> 🔥
+</p>
+
+---
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:243B55,100:141E30&height=120&section=footer"/>
+</p>
