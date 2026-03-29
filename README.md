@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 🎓 Final-year Computer Science Engineering student  
 💻 Full Stack Developer (React, Node.js, JavaScript, HTML, CSS)  
@@ -40,13 +40,11 @@
 <p>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Python-lightblue?style=for-the-badge&logo=python" />
 </p>
 
 ### 🤖 AI & Machine Learning  
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge&logo=scikitlearn" />
 </p>
 
 ---
@@ -68,11 +66,15 @@
 
 ## 📬 Connect with Me  
 
+ <a href="https://x.com/Samadritoo">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+  </a>
 <p align="center">
   <a href="https://www.linkedin.com/in/samadrito-khamaru-67b190282?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/samadrito10">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
