@@ -5,14 +5,14 @@
 
 <!-- 🔥 TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Always+Learning+New+Things+" />
 </p>
 
 ---
 
 ##  About Me  
 
-🎓 Final-year Computer Science Engineering student  
+🎓 Final-year Computer Science Engineering student at TBIT(Makaut University)
 💻 Full Stack Developer (React, Node.js, JavaScript, HTML, CSS)  
 🤖 Exploring Artificial Intelligence & Machine Learning  
 🧠 Love solving problems and building real-world projects  
@@ -66,11 +66,12 @@
 
 ## 📬 Connect with Me  
 
- <a href="https://x.com/Samadritoo">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-  </a>
+
+
 <p align="center">
+    <a href="https://x.com/Samadritoo">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/samadrito-khamaru-67b190282?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -78,11 +79,11 @@
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
+  
 ---
 
 <p align="center">
-🔥 <b>Let’s build something amazing together!</b> 🔥
+ <b>Let’s build something amazing together!</b> 
 </p>
 
 ---
