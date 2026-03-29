@@ -1,6 +1,9 @@
 <!-- 🔥 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=Samadrito%20Khamaru&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=220&section=header&text=Samadrito%20Khamaru&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+
+<h3 align="center">Engineering Student | Full stack Developer | Exploring AI & ML</h3>
 </p>
 
 <!-- 🔥 TYPING EFFECT -->
@@ -34,6 +37,7 @@
 <p>
   <img src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🧑‍💻 Programming Languages  
@@ -45,20 +49,6 @@
 ### 🤖 AI & Machine Learning  
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
